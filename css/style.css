@@ -1,0 +1,13 @@
+.container{
+    margin-top: 60px;
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    
+}
+
+.putForm{
+    width: 400px;
+    text-align: right;
+}
